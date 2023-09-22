@@ -20,7 +20,6 @@ public class Main {
         }
     }
 }
-
 class Chicken implements Runnable {
     @Override
     public void run() {
